@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/packages/
+.aspire/
+.vagrant/
+TestResults/
+playwright-artifacts/
+*.user
+*.suo
+

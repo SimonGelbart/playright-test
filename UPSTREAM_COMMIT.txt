@@ -1,0 +1,5 @@
+Microsoft dotnet-framework-docker samples/aspnetapp
+https://github.com/microsoft/dotnet-framework-docker/tree/b473d3e477ddee69fabfcf70f09f7a6c9c6934cf/samples/aspnetapp
+
+Commit: b473d3e477ddee69fabfcf70f09f7a6c9c6934cf
+
